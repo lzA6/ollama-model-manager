@@ -1,0 +1,2 @@
+# ollama-model-manager
+用于管理ollama的模型，一键删除一键把GGUF转换为ollama熟悉的格式且能自动识别本地的ollama服务等
